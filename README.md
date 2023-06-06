@@ -109,6 +109,11 @@ void loop()
 
 
 
+### OUTPUT
+![Screenshot (294)](https://github.com/VelasiriSreeja/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/118344328/0fd5d7c2-ea43-4f38-9e5e-e081aaa7b020)
+
+
+![Screenshot (295)](https://github.com/VelasiriSreeja/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/118344328/d22ae198-2ef8-440f-84ec-d3f6c7faae57)
 
 
 ### RESULTS
